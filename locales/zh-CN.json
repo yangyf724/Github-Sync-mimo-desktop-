@@ -1,0 +1,4 @@
+{
+  "displayName": "GitHub Sync",
+  "brief": "建仓时选择可见性并同步推送，自动维护 README 版本与 CHANGELOG 变更说明"
+}
